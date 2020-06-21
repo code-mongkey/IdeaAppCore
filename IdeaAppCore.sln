@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaAppCore", "IdeaAppCore.csproj", "{F652E148-D415-45C4-AA30-B281BB76D50A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaAppCore.Admin", "..\IdeaAppCore.Admin\IdeaAppCore.Admin.csproj", "{4F7769BE-D07C-4684-9CFD-00CBB6E2AB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaAppCore.Admin", "..\IdeaAppCore.Admin\IdeaAppCore.Admin.csproj", "{4F7769BE-D07C-4684-9CFD-00CBB6E2AB53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
